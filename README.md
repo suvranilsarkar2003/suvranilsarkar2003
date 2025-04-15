@@ -1,3 +1,4 @@
+![logo](https://github.com/suvranilsarkar2003/suvranilsarkar2003/blob/main/git_banner.png)
 <h1 align="center">Hi 👋, I'm Suvranil Sarkar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
